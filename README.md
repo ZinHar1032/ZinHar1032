@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZinHar1032
+- 👋 Hi, I’m @ZinHar
 - 👀 I’m interested in  web programming and tech
 - 🌱 I’m currently learning Php & Mysql
 - 💞️ I’m looking to collaborate on open source projects 
